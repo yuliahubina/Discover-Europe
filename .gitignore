@@ -4,8 +4,8 @@
 # Ignore system files
 .DS_Store
 
-
 Library/
+
 
 # Ignore Unity folders
 Library/
